@@ -1,6 +1,6 @@
 # Formula1
 
-An ADF Pipeline with pySpark, data lake and Databricks for [Formula1 data](http://ergast.com/mrd/db/#csv)
+An ADF Pipeline with pySpark, Data Lake, Data Factory and Databricks for [Formula1 data](http://ergast.com/mrd/db/#csv)
 <div align-item="center">
   <h4>Data Factory Pipeline</h4>
   <img src="images/overall_pipeline.PNG" height="80%" width="80%">
